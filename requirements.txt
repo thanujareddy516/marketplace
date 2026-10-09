@@ -1,0 +1,5 @@
+# Runtime: Python standard library only (sqlite3, datetime, json)
+# Requires Python 3.10+ (uses "dict | None" type hints)
+
+# Testing
+pytest>=8.0
